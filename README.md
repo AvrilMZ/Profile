@@ -20,7 +20,7 @@
     <!-- Light Mode -->
       <p align="center">
         <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&theme=default#gh-light-mode-only" alt="Main Stats"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=AvrilMZ&show=prs_merged&show_icons=true&hide=contribs,prs&hide_border=true&theme=default#gh-light-mode-only" alt="Main Stats"/>
         </a>
       </p>
     </td>
@@ -35,7 +35,7 @@
     <!-- Light Mode -->
       <p align="center">
         <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrilMZ&theme=default#gh-light-mode-only" alt="Top Languages"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvrilMZ&hide_border=true&theme=default#gh-light-mode-only" alt="Top Languages"/>
         </a>
       </p>
     </td>
@@ -52,7 +52,7 @@
     <!-- Light Mode -->
       <p align="center">
         <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-          <img align="center" src="https://streak-stats.demolab.com?user=AvrilMZ&theme=default&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true#gh-light-mode-only" alt="Streak Counter"/>
+          <img align="center" src="https://streak-stats.demolab.com?user=AvrilMZ&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true#gh-light-mode-only" alt="Streak Counter"/>
         </a>
       </p>
     </td>
@@ -67,7 +67,7 @@
     <!-- Light Mode -->
       <p align="center">
         <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AvrilMZ&limit=3&theme=default&show_owner=true&combine_all_yearly_contributions=true#gh-light-mode-only" alt="Top Contributions"/>
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AvrilMZ&limit=3&theme=default&hide_border=true&show_owner=true&combine_all_yearly_contributions=true#gh-light-mode-only" alt="Top Contributions"/>
         </a>
       </p>
     </td>
@@ -87,7 +87,7 @@
   <!-- Light Mode -->
 <!--
   <a href="https://github.com/AvrilMZ#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/        LINK_DEL_REPO       &theme=default#gh-light-mode-only" alt="Pinned Repo"/>
+    <img src="https://github-readme-stats.vercel.app/        LINK_DEL_REPO       &hide_border=true&theme=default#gh-light-mode-only" alt="Pinned Repo"/>
   </a>
 </div>
 -->

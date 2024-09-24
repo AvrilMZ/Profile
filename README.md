@@ -2,7 +2,7 @@
 
 <!-- PROFILE VIEWS  -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AvrilMZ&label=Profile%20views&color=3ac9fd&style=for-the-badge&logo=star" alt="AvrilMZ" style="padding-right:20px;"/>
+  <img src="https://komarev.com/ghpvc/?username=AvrilMZ&label=Profile%20views&theme=default&style=for-the-badge" alt="AvrilMZ" style="padding-right:20px"/>
 </p>
 
 <!-- PROFILE STATS -->

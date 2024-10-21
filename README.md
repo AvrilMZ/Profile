@@ -1,10 +1,5 @@
 <h1> 👋🏻👋🏻 </h1>
 
-<!-- PROFILE VIEWS  -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AvrilMZ&label=Profile%20views&theme=default&style=for-the-badge" alt="AvrilMZ" style="padding-right:20px"/>
-</p>
-
 <!-- PROFILE STATS -->
 <h2 align="center"> ~ Github Public Statistics ~ </h2>
 <table width="100%">
